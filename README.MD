@@ -1,3 +1,5 @@
+WEBSITE URL: https://leegusckd.github.io/SEA-Catalog-Project/
+
 # SEA Stage 2 - Data Catalog Project
 
 This is the instructions, requirements, and starter for stage two of the Snap Engineering Academy application process.
